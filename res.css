@@ -1,0 +1,32 @@
+body {
+    background-color: #dbdada;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #333;
+   }
+   header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    overflow: hidden;
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;
+   }
+   h1 {
+    text-align: center;
+    font-size: 50px;
+   }
+  section {
+    padding: 20px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;
+  }
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    
+   }
